@@ -1,0 +1,3 @@
+onnx_model_path: /home/hshong/code/CLionProjects/YOLOv8-TensorRT-CPP/models/yolov8n-seg.onnx
+image_topic: /mynteye/left/image_color
+publish_topic: /publish_topic
